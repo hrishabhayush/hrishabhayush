@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <br />
 <h3>Connect with me:</h3>
 <p>
-<a href="https://x.com/hrishabhayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="hrishabhayush" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/hrishabh_ayush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingmickey" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/codingmickey" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="codingmickey" height="30" width="25" /></a>
+<a href="https://x.com/hrishabhayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrishabhayush" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/hrishabh_ayush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrishabhayush" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/hrishabhayush" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="hrishabhayush" height="30" width="25" /></a>
 </p>
 </div>
 
@@ -71,21 +71,21 @@ Here are some ideas to get you started:
 
 <hr />
 <!--
-[![Kartis's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmickey&theme=dracula)](https://github.com/codingmickey)
+[![Hrishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrishabhayush&theme=dracula)](https://github.com/hrishabhayush)
 -->
 <div align="center">
-<a href="https://github.com/codingmickey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingmickey&theme=dracula" />
+<a href="https://github.com/hrishabhayush">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrishabhayush&theme=dracula" />
 </a>
 <br /><br />
-<a href="https://github.com/codingmickey">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmickey&theme=dracula" />
+<a href="https://github.com/hrishabhayush">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabhayush&theme=dracula" />
 </a>
 </div>
 <!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmickey&theme=dracula" alt="codingmickey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrishabhayush&theme=dracula" alt="hrishabhayush" /></p>
 -->
 
 <hr />
 
-[![@codingmickey's Holopin board](https://holopin.me/codingmickey)](https://holopin.io/@codingmickey)
+[![@hrishabhayush's Holopin board](https://holopin.me/hrishabhayush)](https://holopin.io/@hrishabhayush)
