@@ -87,5 +87,3 @@ Here are some ideas to get you started:
 -->
 
 <hr />
-
-[![@hrishabhayush's Holopin board](https://holopin.me/hrishabhayush)](https://holopin.io/@hrishabhayush)
