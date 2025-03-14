@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <h3>Connect with me:</h3>
 <p>
 <a href="https://x.com/hrishabhayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrishabhayush" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/hrishabh_ayush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrishabhayush" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/hrishabh_ayush/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="hrishabhayush" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/hrishabhayush" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/867px-LeetCode_logo_white_no_text.svg.png" alt="hrishabhayush" height="30" width="25" /></a>
 </p>
 </div>
