@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ha385@cornell.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tN8d2aozT3R3TrtSKMjVo9y0vlJbcMCu/view?usp=sharing](https://drive.google.com/file/d/1tN8d2aozT3R3TrtSKMjVo9y0vlJbcMCu/view?usp=sharing)
-
 - ⚡ Fun fact **I do Calistheniscs 💪 and I do Salsa and Swing dance 🕺**
 
 - ⌨️ Like typing, **avg wpm: 110**
